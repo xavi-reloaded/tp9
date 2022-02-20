@@ -1,0 +1,15 @@
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/obj/Debug/net6.0/refint/ConsoleApp1.dll
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache
+/Users/xavi/workspace/amelie/solution_tp9/Solution1/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll

@@ -1,0 +1,33 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6e4ccbeb_002D01bb_002D40fb_002D81bc_002De114eed404a4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlayWithList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::2DE5AF8B-568E-4A74-8F0F-D7000197C741::net6.0::ConsoleApp1Test.PlayWithList&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e621c51d_002D2932_002D4928_002Dac28_002Dbdb7685c2825/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PlayWithList #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::2DE5AF8B-568E-4A74-8F0F-D7000197C741::net6.0::ConsoleApp1Test.PlayWithList&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::2DE5AF8B-568E-4A74-8F0F-D7000197C741::net6.0::ConsoleApp1Test.GenTreeTest.LowestCommonDescendant__validTrees_true&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::2DE5AF8B-568E-4A74-8F0F-D7000197C741::net6.0::ConsoleApp1Test.GenTreeTest.LowestCommonDescendant__validTrees__validDescendant&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::2DE5AF8B-568E-4A74-8F0F-D7000197C741::net6.0::ConsoleApp1Test.GenTreeToDotTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::2DE5AF8B-568E-4A74-8F0F-D7000197C741::net6.0::ConsoleApp1Test.SuspectsTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</wpf:ResourceDictionary>
